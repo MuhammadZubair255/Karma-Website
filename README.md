@@ -1,3 +1,2 @@
 # Karma-Website
-The Karma website by FoxDSGN offers tools and strategies for improving SEO, including analytics, content optimization, and user-friendly design. It helps track performance, integrates with other marketing tools, and provides support resources.
-This is Karma Website I made in HTML,CSS
+KARMA! Our website is a showcase of creativity and innovation, crafted entirely using front-end technologies such as HTML5, CSS, and JavaScript. Dive into our project to explore a seamless blend of design and functionality, where every click brings a delightful experience. Discover the power of modern web development with KARMA
